@@ -2,7 +2,7 @@
 Projeto desenvolvido para o exame de proficiência da matéria "Laboratório de Engenharia de Software", ministrada pelo professor Fabricio de Carvalho na FATEC de São José dos Campos - SP.
 
 
-Código desenvolvido em NodeJS, utilizando Javascript + ReacJS no frontend e Typescript + TypeORM para o backend, junramente com PostgreSQL para criação e administração da base de dados.
+Código desenvolvido em NodeJS, utilizando Javascript + ReacJS no frontend e Typescript + TypeORM para o backend, juntamente com PostgreSQL para criação e administração da base de dados.
 
 ### Telas do projeto
 
