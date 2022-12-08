@@ -11,7 +11,7 @@ Código desenvolvido em NodeJS, utilizando Javascript + ReacJS no frontend e Typ
 
 ### Telas do administrador
 
-Visualização por parte do administrador do sistema, onde pode-se observar todos os projetos já adicionadow e também editá-los, excluí-los ou criar novos:
+Visualização por parte do administrador do sistema, onde pode-se observar todos os projetos já adicionados e também editá-los, excluí-los ou criar novos:
 ![tela_admin](https://user-images.githubusercontent.com/54710426/206485445-ed18d32e-7504-4199-8535-b3d827c3fdbe.png)
 
 
